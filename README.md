@@ -8,7 +8,7 @@
 
 下面这幅图就是列举了10各类，每一类展示了随机的10张图片：
 
-![10](C:\Users\19367\Desktop\作业\人工智能安全\README.assets\10.png)
+![10](README.assets\10.png)
 
 数据集的下载路径：http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
@@ -35,19 +35,19 @@
 ## 运行结果
 #### learning rate = 0.0005：
 
-<img src="C:\Users\19367\Desktop\作业\人工智能安全\README.assets\image-20210924210725631.png" alt="image-20210924210725631" style="zoom: 80%;" />
+<img src="README.assets\image-20210924210725631.png" alt="image-20210924210725631" style="zoom: 80%;" />
 
 #### learning rate = 0.001:
 
-<img src="C:\Users\19367\Desktop\作业\人工智能安全\README.assets\image-20210924210742710.png" alt="image-20210924210742710" style="zoom:80%;" />
+<img src="README.assets\image-20210924210742710.png" alt="image-20210924210742710" style="zoom:80%;" />
 
 #### learning rate = 0.0015:
 
-<img src="C:\Users\19367\Desktop\作业\人工智能安全\README.assets\image-20210924210829761.png" alt="image-20210924210829761" style="zoom:80%;" />
+<img src="README.assets\image-20210924210829761.png" alt="image-20210924210829761" style="zoom:80%;" />
 
 #### 不同学习率下的train_loss曲线
 
-<img src="C:\Users\19367\Desktop\作业\人工智能安全\README.assets\image-20210925154105542.png" alt="image-20210925154105542" style="zoom:67%;" />
+<img src="README.assets\image-20210925154105542.png" alt="image-20210925154105542" style="zoom:67%;" />
 
 ## 结果分析
 

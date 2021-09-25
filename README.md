@@ -8,7 +8,7 @@
 
 下面这幅图就是列举了10各类，每一类展示了随机的10张图片：
 
-![10](README.assets\10.png)
+<img src="README.assets/10.png" alt="10"  />
 
 数据集的下载路径：http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
